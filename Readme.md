@@ -4,6 +4,8 @@
 
 Dashboard interativo desenvolvido para análise estratégica de recursos humanos, extraindo insights valiosos de dados do ERP empresarial. O projeto atendeu à demanda da diretoria por relatórios dinâmicos e de fácil acesso para tomada de decisão.
 
+[ACESSE O DASHBOARD AQUI](https://app.powerbi.com/view?r=eyJrIjoiNzgyNjU4NjgtYmNmYi00MDIwLWI5MjEtZjJjYzg2NDRhYmY3IiwidCI6IjJhZWZhOTZmLWU2MDYtNDYyZC1iYmNlLTE1YTUyMjcxMGVlMiJ9&pageName=3f00f359bfbc604747ed)
+
 ## 🚀 Principais Funcionalidades
 
 ### Análises Implementadas:
